@@ -106,3 +106,5 @@ This README highlights the structure and key elements of the resume for **S. Vig
 - **Python for Data Science Certification** – Placeholder
 
 ---
+# Welcome to 5 Vignesh
+![Logo](images/image3.png)
