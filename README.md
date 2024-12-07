@@ -91,7 +91,7 @@ This README highlights the structure and key elements of the resume for **S. Vig
 ## Projects
 
 ### [**Assignment 1: Mind Matters - Addressing Mental Health Challenges Among Seniors**](https://github.com/vickythatguy/svignesh.github.io/blob/main/assignment1.md)
-[![Mind Matters](https://raw.githubusercontent.com/vickythatguy/svignesh.github.io/main/images/image4.png)](https://github.com/vickythatguy/svignesh.github.io/blob/main/assignment1.md)
+[![Mind Matters](https://raw.githubusercontent.com/vickythatguy/svignesh.github.io/main/images/image4.png)](https://github.com/vickythatguy/svignesh.github.io/assignment1.md)
 
 This project highlights the mental health challenges faced by seniors, including depression, anxiety, and social isolation. Using data from **Statistics Canada** and the **World Health Organization (WHO)**, interactive visualizations were created to illustrate key trends and gaps in senior mental health care. Key tools used include **Power BI**, **Miro**, and **Prezi** for collaboration and visualization.
 
@@ -101,7 +101,7 @@ This project highlights the mental health challenges faced by seniors, including
   - Developed interactive dashboards for storytelling.
   - Proposed policy recommendations for better care.
 
-[View Full Project](https://github.com/vickythatguy/svignesh.github.io/blob/main/assignment1.md)
+[View Full Project](https://github.com/vickythatguy/svignesh.github.io/assignment1.md)
 
 2. **Assignment 2**: Placeholder
 3. **Assignment 3**: Placeholder
