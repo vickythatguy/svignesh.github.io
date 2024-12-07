@@ -88,7 +88,21 @@ This README highlights the structure and key elements of the resume for **S. Vig
 
 ### **Data Visualization**
 #### Assignments
-1. **Assignment 1**: Placeholder
+## Projects
+
+### [**Assignment 1: Mind Matters - Addressing Mental Health Challenges Among Seniors**](https://github.com/vickythatguy/svignesh.github.io/blob/main/assignment1.md)
+[![Mind Matters](https://raw.githubusercontent.com/vickythatguy/svignesh.github.io/main/images/image4.png)](https://github.com/vickythatguy/svignesh.github.io/blob/main/assignment1.md)
+
+This project highlights the mental health challenges faced by seniors, including depression, anxiety, and social isolation. Using data from **Statistics Canada** and the **World Health Organization (WHO)**, interactive visualizations were created to illustrate key trends and gaps in senior mental health care. Key tools used include **Power BI**, **Miro**, and **Prezi** for collaboration and visualization.
+
+- **Objective**: Raise awareness of mental health challenges in seniors and propose actionable healthcare improvements.
+- **Key Highlights**:
+  - Explored data trends on senior isolation and depression.
+  - Developed interactive dashboards for storytelling.
+  - Proposed policy recommendations for better care.
+
+[View Full Project](https://github.com/vickythatguy/svignesh.github.io/blob/main/assignment1.md)
+
 2. **Assignment 2**: Placeholder
 3. **Assignment 3**: Placeholder
 4. **Assignment 4**: Placeholder
