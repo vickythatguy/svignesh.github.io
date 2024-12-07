@@ -58,8 +58,11 @@ This README highlights the structure and key elements of the resume for **S. Vig
 </a>
 
 - Developed and compared **nine technical trading strategies** using Python, achieving a **cumulative return of 624.28%**.
+  
 - Utilized metrics such as **Sharpe ratio** and **win rate** to evaluate performance.
+  
 - Conducted **data analysis and backtesting** for trading strategies including EMA, VWMA, MACD, and more.
+  
 - Compared strategy performance against the **TD Bank NASDAQ Index Mutual Fund** to provide actionable insights for investors.
 
 ---
@@ -70,8 +73,11 @@ This README highlights the structure and key elements of the resume for **S. Vig
 </a>
 
 - Built **predictive models** using **Logistic Regression (97% accuracy)** and **Random Forest (98% accuracy)** for diabetes prediction.
+  
 - Conducted **Exploratory Data Analysis (EDA)** to identify key predictors such as BMI, HbA1c levels, and blood glucose.
+
 - Implemented **manual oversampling techniques** for balancing the dataset and improving model performance.
+
 - Generated insights to assist healthcare strategies for early detection and risk assessment.
 
 ---
