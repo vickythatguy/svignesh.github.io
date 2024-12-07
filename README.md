@@ -101,7 +101,8 @@ This project highlights the mental health challenges faced by seniors, including
   - Developed interactive dashboards for storytelling.
   - Proposed policy recommendations for better care.
 
-[View Full Project](https://github.com/vickythatguy/svignesh.github.io/assignment1.md)
+[View Full Project](https://vickythatguy.github.io/svignesh.github.io/assignment1)
+
 
 2. **Assignment 2**: Placeholder
 3. **Assignment 3**: Placeholder
