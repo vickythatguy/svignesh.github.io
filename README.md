@@ -53,7 +53,9 @@ This README highlights the structure and key elements of the resume for **S. Vig
 ## Projects
 
 ### [**Optimizing Investment Outcomes**](https://github.com/vickythatguy/strategiesVsMutualFund)
-[![Optimizing Investment Outcomes](https://your-image-link-for-image2.com)](https://github.com/vickythatguy/strategiesVsMutualFund)
+<a href="https://github.com/vickythatguy/strategiesVsMutualFund">
+  <img src="https://raw.githubusercontent.com/vickythatguy/svignesh.github.io/main/images/image2.webp" alt="Optimizing Investment Outcomes" width="400" />
+</a>
 
 - Developed and compared **nine technical trading strategies** using Python, achieving a **cumulative return of 624.28%**.
 - Utilized metrics such as **Sharpe ratio** and **win rate** to evaluate performance.
@@ -63,7 +65,9 @@ This README highlights the structure and key elements of the resume for **S. Vig
 ---
 
 ### [**Diabetes Prediction Using R**](https://github.com/vickythatguy/diabetespredicition)
-[![Diabetes Prediction Using R](images/image1)](https://github.com/vickythatguy/diabetespredicition)
+<a href="https://github.com/vickythatguy/diabetespredicition">
+  <img src="https://raw.githubusercontent.com/vickythatguy/svignesh.github.io/main/images/image1.webp" alt="Diabetes Prediction Using R" width="400" />
+</a>
 
 - Built **predictive models** using **Logistic Regression (97% accuracy)** and **Random Forest (98% accuracy)** for diabetes prediction.
 - Conducted **Exploratory Data Analysis (EDA)** to identify key predictors such as BMI, HbA1c levels, and blood glucose.
