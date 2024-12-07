@@ -50,15 +50,31 @@ This README highlights the structure and key elements of the resume for **S. Vig
 
 ---
 
-## **5. Projects**
+## Projects
 
-### **Data Analytics**
-- **Optimizing Investment Outcomes**:
-  - Developed nine technical trading strategies using Python, achieving a cumulative return of 624.28%.
-  - Applied metrics like Sharpe ratio and win rate for performance evaluation.
-- **Diabetes Prediction Using R**:
-  - Built predictive models with Logistic Regression (97% accuracy) and Random Forest (98% accuracy).
-  - Conducted Exploratory Data Analysis (EDA) and manual oversampling for dataset balancing.
+### [**Optimizing Investment Outcomes**](https://github.com/vickythatguy/strategiesVsMutualFund)
+[![Optimizing Investment Outcomes](https://your-image-link-for-image2.com)](https://github.com/vickythatguy/strategiesVsMutualFund)
+
+- Developed and compared **nine technical trading strategies** using Python, achieving a **cumulative return of 624.28%**.
+- Utilized metrics such as **Sharpe ratio** and **win rate** to evaluate performance.
+- Conducted **data analysis and backtesting** for trading strategies including EMA, VWMA, MACD, and more.
+- Compared strategy performance against the **TD Bank NASDAQ Index Mutual Fund** to provide actionable insights for investors.
+
+---
+
+### [**Diabetes Prediction Using R**](https://github.com/vickythatguy/diabetespredicition)
+[![Diabetes Prediction Using R](images/image1)](https://github.com/vickythatguy/diabetespredicition)
+
+- Built **predictive models** using **Logistic Regression (97% accuracy)** and **Random Forest (98% accuracy)** for diabetes prediction.
+- Conducted **Exploratory Data Analysis (EDA)** to identify key predictors such as BMI, HbA1c levels, and blood glucose.
+- Implemented **manual oversampling techniques** for balancing the dataset and improving model performance.
+- Generated insights to assist healthcare strategies for early detection and risk assessment.
+
+---
+
+### How It Works
+- **Click on the project title or the image** to visit the GitHub repository for the full code, data, and implementation details.
+
 
 ### **Data Visualization**
 #### Assignments
