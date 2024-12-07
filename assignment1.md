@@ -1,3 +1,7 @@
+---
+layout: default
+title: Storyboard
+---
 # Mind Matters: Addressing Mental Health Challenges Among Seniors
 
 ## Introduction
