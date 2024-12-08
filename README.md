@@ -107,8 +107,6 @@ This project highlights the mental health challenges faced by seniors, including
 ### [**Assignment 2: Redesign a Notable Information Graphic - Nightingale's Coxcomb**](https://vickythatguy.github.io/svignesh.github.io/assignment2)
 [![Nightingale's Coxcomb](https://raw.githubusercontent.com/vickythatguy/svignesh.github.io/main/images/image12.png)](https://github.com/vickythatguy/svignesh.github.io/assignment2)
 
-## Nightingale's Coxcomb
-
 This project reimagines Florence Nightingale's historic coxcomb diagram, demonstrating the power of data visualization in influencing public health. Using modern tools like R and Power BI, the project combines historical data with contemporary design principles to create interactive and engaging visualizations.
 
 ### Objective
