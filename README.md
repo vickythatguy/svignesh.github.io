@@ -40,7 +40,7 @@ Driven by a passion for data and problem-solving, I offer hands-on expertise in 
 
 ## Projects
 
-### [Optimizing Investment Outcomes](https://github.com/vickythatguy/strategiesVsMutualFund)
+### [1. Maximizing Returns: Smarter Investment Strategies](https://github.com/vickythatguy/strategiesVsMutualFund)
 <a href="https://github.com/vickythatguy/strategiesVsMutualFund">
   <img src="https://raw.githubusercontent.com/vickythatguy/svignesh.github.io/main/images/image2.webp" alt="Optimizing Investment Outcomes" width="450" />
 </a>
@@ -49,7 +49,7 @@ Nine technical trading strategies were developed and compared using Python, achi
 
 ---
 
-### [Diabetes Prediction Using R](https://github.com/vickythatguy/diabetespredicition)
+### [2. Predicting Diabetes: Data-Driven Insights with R](https://github.com/vickythatguy/diabetespredicition)
 <a href="https://github.com/vickythatguy/diabetespredicition">
   <img src="https://raw.githubusercontent.com/vickythatguy/svignesh.github.io/main/images/image1.webp" alt="Diabetes Prediction Using R" width="400" />
 </a>
