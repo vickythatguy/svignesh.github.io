@@ -109,7 +109,10 @@ This project highlights the mental health challenges faced by seniors, including
 
 This project reimagines Florence Nightingale's historic coxcomb diagram, demonstrating the power of data visualization in influencing public health. Using modern tools like R and Power BI, the project combines historical data with contemporary design principles to create interactive and engaging visualizations.
 
+
+
 [View Full Project](https://vickythatguy.github.io/svignesh.github.io/assignment2)
+
 ---
 
 ### [Assignment 3: A Persuasive Infographic - India: On the Path to Becoming the Cancer Capital of the World](https://www.canva.com/design/DAGVjMPjbTs/Q266y7ICBx2YyUCvcAF6gg/view?utm_content=DAGVjMPjbTs&utm_campaign=designshare&utm_medium=link&utm_source=editor)
