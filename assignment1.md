@@ -11,7 +11,7 @@ To convey this story effectively, I chose an interactive presentation format to 
 
 [**Miro Template for Reference**](https://miro.com/welcomeonboard/Uk4ya0lhRjF5NU1JOXJwbnJ6VmVEMGNaOTY2MU9IejNwbHQ1eno1RU9uQ1YxUUpPOTJ0cXhlS3dTVnFMZUpXdXwzNDU4NzY0NjAxMzM0MDQ0Njc1fDI/?share_link_id=682473974319)
 
-![Image 5](images/image5.jpg)
+<img src="images/image5.png" alt="Image 5" width="800" />
 
 ---
 
