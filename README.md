@@ -1,10 +1,10 @@
 
-## **1. Professional Summary**
+## **Professional Summary**
 Driven by a passion for data and problem-solving, I offer hands-on expertise in SQL, Python, Power BI, Tableau, and cloud platforms such as Azure. With a focus on advanced data modeling, predictive analytics, and machine learning, I transform raw data into meaningful insights. Proficient in SDLC and Agile methodologies, I excel in creating data-driven solutions that support strategic decision-making and business success.
 
 ---
 
-## **2. Technical Skills**
+## **Technical Skills**
 
 
 ### Languages:
@@ -15,13 +15,13 @@ Driven by a passion for data and problem-solving, I offer hands-on expertise in 
 
 ---
 
-## **3. Education**
+## **Education**
 - **Bachelor of Technology in Computer Science** - DCE, India.
 - **Masters in Business Analytics and AI** - OntarioTech University, Canada.
 
 ---
 
-## **4. Professional Experience**
+## **Professional Experience**
 ### **Nvest Solutions (Sep 2022 – Sep 2023)**
 - **Position**: Business Analyst
 - **Key Achievements**:
