@@ -22,7 +22,7 @@ The sketches represent the initial conceptual phase, where I explored different 
 ![R Code Visualizations](images/image17.png)
 
 I used R to create various visualizations, including stacked bar graphs, heatmaps, and pie charts, to represent the number of deaths due to disease, wounds, and other causes. The dataset was sourced from the `HistData` package and the `nightingale` library.  
-[View R Code](https://drive.google.com/file/d/1fy3rmqZTt_2nv1OxDG2jlnmHbdjcP6i4/view?usp=sharing)
+[View Code](Iteration%202.R)
 
 These visualizations refined the visual storytelling aspect by experimenting with how different colors, shapes, and structures could communicate the story behind the data more effectively.
 
