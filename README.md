@@ -118,14 +118,9 @@ Click below to dive into the detailed analysis:
 
 This tutorial introduces a storyboard created with Miro to illustrate the narrative around mental health challenges among seniors, focusing on the emotional and systemic challenges they face. The storyboard helps visualize key moments, characters, and solutions in a clear and impactful way.
 
-
 ### Storyboard Overview
 
-The storyboard uses **Miro** to break down the journey of seniors, like the fictional character "Charlie," experiencing mental health challenges. It emphasizes:
-1. Emotional struggles such as depression and anxiety.
-2. The impact of social isolation.
-3. The lack of access to mental health services.
-4. Potential solutions to improve the quality of life for seniors.
+The storyboard uses **Miro** to break down the journey of seniors, like the fictional character "Charlie," experiencing mental health challenges. It emphasizes Emotional struggles such as depression and anxiety due the impact of social isolation.Potential solutions to improve the quality of life for seniors.
 
 ### Miro Template
 
@@ -141,7 +136,6 @@ To explore the full details of this project, you can also refer to the original 
 
 ## **📃 Resume**
 Kindly click [here to view my Resume](https://drive.google.com/file/d/1cWsjDkq4wtMAebCdrH-KLYHnSVNwWs4s/view?usp=sharing).
-
 
 
 ---
