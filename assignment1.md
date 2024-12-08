@@ -9,9 +9,9 @@ For this project, I chose to focus on the mental health challenges faced by seni
 
 To convey this story effectively, I chose an interactive presentation format to engage the audience with a mix of visuals and data, making the complex topic of senior mental health accessible to everyone. Through this presentation, I used data from Statistics Canada, the World Health Organization (WHO), and the Canadian Coalition for Seniors' Mental Health (CCSMH). These sources provided the foundation for the graphs, which highlight the prevalence of depression, anxiety, and access to mental health services among seniors. The combination of narrative, interactive elements, and data visualizations ensures that the story is both compelling and informative, encouraging the audience to reflect on how we can better support the emotional well-being of seniors.
 
-[**Miro Template for Reference**](https://miro.com/welcomeonboard/Uk4ya0lhRjF5NU1JOXJwbnJ6VmVEMGNaOTY2MU9IejNwbHQ1eno1RU9uQ1YxUUpPOTJ0cXhlS3dTVnFMZUpXdXwzNDU4NzY0NjAxMzM0MDQ0Njc1fDI/?share_link_id=682473974319)
+<a href="https://miro.com/welcomeonboard/Uk4ya0lhRjF5NU1JOXJwbnJ6VmVEMGNaOTY2MU9IejNwbHQ1eno1RU9uQ1YxUUpPOTJ0cXhlS3dTVnFMZUpXdXwzNDU4NzY0NjAxMzM0MDQ0Njc1fDI/?share_link_id=682473974319" style="color:blue; text-decoration:underline;">Miro Template for Reference</a>
 
-<img src="images/image5.png" alt="Image 5" width="800" />
+![Image 5](images/image5.png)
 
 ---
 
@@ -83,9 +83,8 @@ To convey this story effectively, I chose an interactive presentation format to 
 ## Delivery Format: Presentation (3rd Iteration)
 The delivery format for this data story is a presentation. This format was chosen for its ability to combine visuals, text, and data in a clear, accessible way. The presentation format allows for a linear narrative, guiding the audience through Charlie's journey and the broader issue of senior mental health step by step. Using images, relatable characters, and data visualizations, the story will create an emotional and informative experience for the audience.
 
-[**View Full Presentation on Prezi**](https://prezi.com/view/HlpTA2mehg4H1OPGTflV/)  
-[**Download the PDF Version**](https://drive.google.com/file/d/1OUfHiCD_f4ynRPfTylbQnJMZworjkSnZ/view?usp=sharing)
-
+<a href="https://prezi.com/view/HlpTA2mehg4H1OPGTflV/" style="color:blue; text-decoration:underline;"><strong>View Full Presentation on Prezi</strong></a>  
+<a href="https://drive.google.com/file/d/1OUfHiCD_f4ynRPfTylbQnJMZworjkSnZ/view?usp=sharing" style="color:blue; text-decoration:underline;"><strong>Download the PDF Version</strong></a>
 ---
 
 ## Conclusion:
@@ -100,5 +99,4 @@ _Resources:_
 6. [Graph on Seniors' Loneliness, July 2022](https://www150.statcan.gc.ca/n1/daily-quotidien/220713/g-a002-eng.htm)
 
 ---
-
-[Download the PDF](https://drive.google.com/file/d/1OUfHiCD_f4ynRPfTylbQnJMZworjkSnZ/view?usp=sharing)
+<a href="https://drive.google.com/file/d/1OUfHiCD_f4ynRPfTylbQnJMZworjkSnZ/view?usp=sharing" style="color:blue; text-decoration:underline;"><strong>Download the PDF</strong></a>
