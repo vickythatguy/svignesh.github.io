@@ -12,7 +12,7 @@ In this assignment, I explore how data visualization can profoundly impact peopl
 ## Iteration Process
 
 ### Iteration 1: Hand-drawn Sketches
-![Hand-drawn Sketches](images/image13.png)
+![Hand-drawn Sketches](images/Image13.png)
 
 The sketches represent the initial conceptual phase, where I explored different types of charts that could effectively convey the information from Nightingale's original visualizations. By considering various visual forms like bar charts, line graphs, and coxcomb-like diagrams, I evaluated the merits of each format for my target audience. The sketches helped me think about how different visualizations impact viewers' understanding and engagement with the data.
 
