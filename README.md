@@ -125,7 +125,7 @@ This project explores the alarming rise in cancer rates in India, highlighting c
 ---
 
 ### [Assignment 4: Data Story - How is Climate Change Influencing Agricultural Productivity Across Canada?](assignment4.md)
-[![Climate Change Impacts](images/image20.png)](assignment4.md)
+[![Climate Change Impacts](images/image20.png)](https://a-mbai5400thefamousfiv.vev.site/)
 
 The project examines how climate change impacts Canadian agriculture, highlighting challenges such as extreme weather and resource sustainability. It uses a scroll storytelling format to present data and engage audiences.
 
