@@ -1,3 +1,7 @@
+---
+layout: default
+title: Storyboard
+---
 # Assignment 2: The Impact of Data Visualization - How Visual Storytelling Saves Lives
 
 ## Overview
