@@ -48,7 +48,8 @@ This section provides a detailed analysis of **Aayushee Patel's** peer activity 
 
 ## Python Code
 The visualizations were generated using Python. You can find the full code implementation in the repository:  
-[**View Python Code**](InclassTutorial.ipynb)
+
+[View Python Code](InclassTutorial.ipynb)
 
 ---
 
