@@ -127,4 +127,6 @@ Kindly click [here to view my Resume](https://drive.google.com/file/d/1cWsjDkq4w
 - Statistics for Data Science and Business Analysis - Udemy
 - Data Analysis with Pandas and Python - Udemy(on-going)
 - Machine Learning A-Z: AI, Python & R + ChatGPT Prize - Udemy(on-going)
+- Supervised Machine Learning: Regression and Classification -Standford University
+- Data Analytics Certificate - Google (Basic,Advanced)
 
