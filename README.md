@@ -1,4 +1,4 @@
-![Banner Image]([images/picture](https://raw.githubusercontent.com/vickythatguy/svignesh.github.io/main/images/picture.png)
+![Banner Image](https://raw.githubusercontent.com/vickythatguy/svignesh.github.io/main/images/picture.png)
 
 
 ## **Professional Summary**
