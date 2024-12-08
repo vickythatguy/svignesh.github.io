@@ -1,14 +1,10 @@
-![Banner Image](https://raw.githubusercontent.com/vickythatguy/svignesh.github.io/main/images/picture.png)
 
-
-## **Professional Summary**
+## **📌 Professional Summary**
 Driven by a passion for data and problem-solving, I offer hands-on expertise in SQL, Python, Power BI, Tableau, and cloud platforms such as Azure. With a focus on advanced data modeling, predictive analytics, and machine learning, I transform raw data into meaningful insights. Proficient in SDLC and Agile methodologies, I excel in creating data-driven solutions that support strategic decision-making and business success.
 
 ---
 
-## **Technical Skills**
-
-
+## **📊 Technical Skills**
 ### Languages:
 - Python, R, SQL
 
@@ -17,13 +13,13 @@ Driven by a passion for data and problem-solving, I offer hands-on expertise in 
 
 ---
 
-## **Education**
+## **🎓 Education**
 - **Bachelor of Technology in Computer Science** - DCE, India.
 - **Masters in Business Analytics and AI** - OntarioTech University, Canada.
 
 ---
 
-## **Professional Experience**
+## **💼 Professional Experience**
 ### **Nvest Solutions (Sep 2022 – Sep 2023)**
 - **Position**: Business Analyst
 - **Key Achievements**:
@@ -40,7 +36,7 @@ Driven by a passion for data and problem-solving, I offer hands-on expertise in 
 
 ---
 
-## Projects
+## **📁 Projects**
 
 ### [1. Maximizing Returns: Smarter Investment Strategies](https://github.com/vickythatguy/strategiesVsMutualFund)
 <a href="https://github.com/vickythatguy/strategiesVsMutualFund">
@@ -60,7 +56,7 @@ Predictive models were built using Logistic Regression (97% accuracy) and Random
 
 ---
 
-## Data Visualization Assignments
+## **📊 Data Visualization Assignments**
 
 ### [Assignment 1: Mind Matters - Addressing Mental Health Challenges Among Seniors](https://vickythatguy.github.io/svignesh.github.io/assignment1)
 [![Mind Matters](https://raw.githubusercontent.com/vickythatguy/svignesh.github.io/main/images/image4.png)](https://vickythatguy.github.io/svignesh.github.io/assignment1)
@@ -109,13 +105,13 @@ The project examines how climate change impacts Canadian agriculture, highlighti
 
 
 ---
-## **Resume**
+## **📃 Resume**
 Kindly click [here to view my Resume](https://drive.google.com/file/d/1cWsjDkq4wtMAebCdrH-KLYHnSVNwWs4s/view?usp=sharing).
 
 
 
 ---
-## **Certifications**
+## **📖 Certifications**
 - SQL(Basic, Intermediate, Advanced) - Hackerrank
 - Working with BigQuery - Cousera
 - Statistics for Data Science and Business Analysis - Udemy
