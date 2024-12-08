@@ -90,7 +90,7 @@ This README highlights the structure and key elements of the resume for **S. Vig
 ## Data Visualization Assignments
 
 ### [Assignment 1: Mind Matters - Addressing Mental Health Challenges Among Seniors](https://vickythatguy.github.io/svignesh.github.io/assignment1)
-[![Mind Matters](https://raw.githubusercontent.com/vickythatguy/svignesh.github.io/main/images/image4.png)](https://github.com/vickythatguy/svignesh.github.io/assignment1)
+[![Mind Matters](https://raw.githubusercontent.com/vickythatguy/svignesh.github.io/main/images/image4.png)](https://vickythatguy.github.io/svignesh.github.io/assignment1)
 
 This project highlights the mental health challenges faced by seniors, including depression, anxiety, and social isolation. Using data from **Statistics Canada** and the **World Health Organization (WHO)**, interactive visualizations were created to illustrate key trends and gaps in senior mental health care. Key tools used include **Power BI**, **Miro**, and **Prezi** for collaboration and visualization.
 
@@ -105,7 +105,7 @@ This project highlights the mental health challenges faced by seniors, including
 ---
 
 ### [Assignment 2: Redesign a Notable Information Graphic - Nightingale's Coxcomb](https://vickythatguy.github.io/svignesh.github.io/assignment2)
-[![Nightingale's Coxcomb](https://raw.githubusercontent.com/vickythatguy/svignesh.github.io/main/images/image12.png)](https://github.com/vickythatguy/svignesh.github.io/assignment2)
+[![Nightingale's Coxcomb](https://raw.githubusercontent.com/vickythatguy/svignesh.github.io/main/images/image12.png)](https://vickythatguy.github.io/svignesh.github.io/assignment2)
 
 This project reimagines Florence Nightingale's historic coxcomb diagram, demonstrating the power of data visualization in influencing public health. Using modern tools like R and Power BI, the project combines historical data with contemporary design principles to create interactive and engaging visualizations.
 
@@ -126,10 +126,6 @@ The project examines how climate change impacts Canadian agriculture, highlighti
 
 [Explore the Scroll Story](https://a-mbai5400thefamousfiv.vev.site/)
 
-
-The project examines how climate change impacts Canadian agriculture, highlighting challenges such as extreme weather and resource sustainability. It uses a scroll storytelling format to present data and engage audiences.
-
-[Explore the Scroll Story](https://a-mbai5400thefamousfiv.vev.site/)
 
 ---
 
