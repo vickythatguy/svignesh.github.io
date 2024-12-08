@@ -1,3 +1,7 @@
+---
+layout: default
+title: Storyboard
+---
 # Peer Profiles: Pre-COVID vs Post-COVID
 
 This section provides a detailed analysis of **Aayushee Patel's** peer activity profile, comparing key behavioral changes before and after the COVID-19 pandemic. Each visualization illustrates shifts in habits, routines, and lifestyle factors, offering insights into the pandemic's impact.
