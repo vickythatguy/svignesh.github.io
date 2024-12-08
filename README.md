@@ -104,7 +104,23 @@ This project highlights the mental health challenges faced by seniors, including
 [View Full Project](https://vickythatguy.github.io/svignesh.github.io/assignment1)
 
 
-2. **Assignment 2**: Placeholder
+### [**Assignment 1: Mind Matters - Addressing Mental Health Challenges Among Seniors**](https://vickythatguy.github.io/svignesh.github.io/assignment2)
+[![Mind Matters](https://raw.githubusercontent.com/vickythatguy/svignesh.github.io/main/images/image12.png)](https://github.com/vickythatguy/svignesh.github.io/assignment2)
+
+## Nightingale's Coxcomb
+
+This project reimagines Florence Nightingale's historic coxcomb diagram, demonstrating the power of data visualization in influencing public health. Using modern tools like R and Power BI, the project combines historical data with contemporary design principles to create interactive and engaging visualizations.
+
+### Objective
+Showcase how redesigning historical visualizations can enhance understanding and promote exploratory data analysis.
+
+### Key Highlights
+- Recreated Nightingale's visualizations using R and the `HistData` package.
+- Developed an interactive infographic in Power BI to highlight key trends.
+- Demonstrated the evolution of data visualization techniques.
+
+[**View Full Project**](assignment2.md)
+
 3. **Assignment 3**: Placeholder
 4. **Assignment 4**: Placeholder
 
