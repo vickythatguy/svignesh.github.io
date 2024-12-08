@@ -54,18 +54,7 @@ Nine technical trading strategies were developed and compared using Python, achi
   <img src="https://raw.githubusercontent.com/vickythatguy/svignesh.github.io/main/images/image1.webp" alt="Diabetes Prediction Using R" width="400" />
 </a>
 
-- Built **predictive models** using **Logistic Regression (97% accuracy)** and **Random Forest (98% accuracy)** for diabetes prediction.
-  
-- Conducted **Exploratory Data Analysis (EDA)** to identify key predictors such as BMI, HbA1c levels, and blood glucose.
-
-- Implemented **manual oversampling techniques** for balancing the dataset and improving model performance.
-
-- Generated insights to assist healthcare strategies for early detection and risk assessment.
-
----
-
-### How It Works
-- Click on the project title or the image to visit the GitHub repository for the full code, data, and implementation details.
+Predictive models were built using Logistic Regression (97% accuracy) and Random Forest (98% accuracy) to support diabetes prediction. Comprehensive Exploratory Data Analysis (EDA) identified key predictors, including BMI, HbA1c levels, and blood glucose, offering valuable insights into influential factors. Manual oversampling techniques were implemented to balance the dataset and enhance model performance. These efforts generated actionable insights to assist healthcare strategies in early detection and risk assessment, enabling data-driven approaches to patient care.
 
 ---
 
