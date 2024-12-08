@@ -102,3 +102,7 @@ _Resources:_
 
 ---
 <a href="https://drive.google.com/file/d/1OUfHiCD_f4ynRPfTylbQnJMZworjkSnZ/view?usp=sharing" style="color:blue; text-decoration:underline;">Download the PDF</a>
+
+---
+
+[← Back to Portfolio](../README.md)
