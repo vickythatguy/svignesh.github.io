@@ -83,8 +83,8 @@ To convey this story effectively, I chose an interactive presentation format to 
 ## Delivery Format: Presentation (3rd Iteration)
 The delivery format for this data story is a presentation. This format was chosen for its ability to combine visuals, text, and data in a clear, accessible way. The presentation format allows for a linear narrative, guiding the audience through Charlie's journey and the broader issue of senior mental health step by step. Using images, relatable characters, and data visualizations, the story will create an emotional and informative experience for the audience.
 
-<a href="https://prezi.com/view/HlpTA2mehg4H1OPGTflV/" style="color:blue; text-decoration:underline;"><strong>View Full Presentation on Prezi</strong></a>  
-<a href="https://drive.google.com/file/d/1OUfHiCD_f4ynRPfTylbQnJMZworjkSnZ/view?usp=sharing" style="color:blue; text-decoration:underline;"><strong>Download the PDF Version</strong></a>
+<a href="https://prezi.com/view/HlpTA2mehg4H1OPGTflV/" style="color:blue; text-decoration:underline;">View Full Presentation on Prezi</a>  
+<a href="https://drive.google.com/file/d/1OUfHiCD_f4ynRPfTylbQnJMZworjkSnZ/view?usp=sharing" style="color:blue; text-decoration:underline;">Download the PDF Version</a>
 
 
 ---
@@ -101,4 +101,4 @@ _Resources:_
 6. [Graph on Seniors' Loneliness, July 2022](https://www150.statcan.gc.ca/n1/daily-quotidien/220713/g-a002-eng.htm)
 
 ---
-<a href="https://drive.google.com/file/d/1OUfHiCD_f4ynRPfTylbQnJMZworjkSnZ/view?usp=sharing" style="color:blue; text-decoration:underline;"><strong>Download the PDF</strong></a>
+<a href="https://drive.google.com/file/d/1OUfHiCD_f4ynRPfTylbQnJMZworjkSnZ/view?usp=sharing" style="color:blue; text-decoration:underline;">Download the PDF</a>
