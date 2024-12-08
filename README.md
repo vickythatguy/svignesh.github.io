@@ -1,8 +1,3 @@
-# Resume Overview: S. Vignesh
-
-This README highlights the structure and key elements of the resume for **S. Vignesh**, a professional with expertise in business analytics, data visualization, and machine learning.
-
----
 
 ## **1. Professional Summary**
 - Business Analyst and Data Analyst with hands-on experience in SQL, Python, Power BI, Tableau, and cloud platforms (Azure).
