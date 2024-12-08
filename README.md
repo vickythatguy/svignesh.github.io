@@ -104,6 +104,23 @@ The project examines how climate change impacts Canadian agriculture, highlighti
 
 [Explore the Scroll Story](https://a-mbai5400thefamousfiv.vev.site/)
 
+---
+# In-Class Tutorial
+
+Welcome to the **In-Class Tutorial** on visualizing peer profiles and their behavioral changes pre- and post-COVID. This tutorial focuses on the activity profile of **Aayushee Patel**, analyzing her behavioral changes before and after the pandemic. It will guide you through key observations and visualizations to better understand the impacts of the pandemic.
+
+Click below to dive into the detailed analysis:
+
+[**Peer Profiles: Pre-COVID vs Post-COVID**](peer-profile-overview.md)
+
+---
+
+---
+
+
+Click below to dive into the detailed analysis:
+
+[**Peer Profiles: Pre-COVID vs Post-COVID**](peer-profile-overview.md)
 
 ---
 ## **📃 Resume**
