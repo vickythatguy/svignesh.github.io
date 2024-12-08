@@ -117,7 +117,7 @@ Showcase how redesigning historical visualizations can enhance understanding and
 - Developed an interactive infographic in Power BI to highlight key trends.
 - Demonstrated the evolution of data visualization techniques.
 
-[**View Full Project**](assignment2.md)
+[View Full Project](https://vickythatguy.github.io/svignesh.github.io/assignment2)
 
 3. **Assignment 3**: Placeholder
 4. **Assignment 4**: Placeholder
