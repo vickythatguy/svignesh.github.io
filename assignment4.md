@@ -1,4 +1,7 @@
-
+---
+layout: default
+title: Storyboard
+---
 
 # Assignment 4: Data Story - How is Climate Change Influencing Agricultural Productivity Across Canada?
 
