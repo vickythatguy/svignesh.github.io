@@ -42,7 +42,7 @@ Driven by a passion for data and problem-solving, I offer hands-on expertise in 
 
 ### [1. Maximizing Returns: Smarter Investment Strategies](https://github.com/vickythatguy/strategiesVsMutualFund)
 <a href="https://github.com/vickythatguy/strategiesVsMutualFund">
-  <img src="https://raw.githubusercontent.com/vickythatguy/svignesh.github.io/main/images/image2.webp" alt="Optimizing Investment Outcomes" width="450" />
+  <img src="https://raw.githubusercontent.com/vickythatguy/svignesh.github.io/main/images/image2.webp" alt="Optimizing Investment Outcomes" width="400" />
 </a>
 
 Nine technical trading strategies were developed and compared using Python, achieving a cumulative return of **624.28%** over the evaluation period. Metrics such as the Sharpe ratio and win rate were utilized to assess performance and identify areas for optimization across strategies, including EMA, VWMA, and MACD. Comprehensive data analysis and rigorous backtesting were conducted, with strategy performance benchmarked against the TD Bank NASDAQ Index Mutual Fund to provide actionable insights for investors seeking data-driven decisions.
@@ -109,7 +109,9 @@ The project examines how climate change impacts Canadian agriculture, highlighti
 ---
 
 ## **6. Certifications**
-- Power BI Certification – Placeholder
-- Tableau Desktop Specialist Certification – Placeholder
-- Azure Data Fundamentals Certification – Placeholder
-- Python for Data Science Certification – Placeholder
+- SQL(Basic, Intermediate, Advanced) - Hackerrank
+- Working with BigQuery - Cousera
+- Statistics for Data Science and Business Analysis - Udemy
+- Data Analysis with Pandas and Python - Udemy(on-going)
+- Machine Learning A-Z: AI, Python & R + ChatGPT Prize - Udemy(on-going)
+
