@@ -116,6 +116,7 @@ This project reimagines Florence Nightingale's historic coxcomb diagram, demonst
 ---
 
 ### [Assignment 3: A Persuasive Infographic - India: On the Path to Becoming the Cancer Capital of the World](https://www.canva.com/design/DAGVjMPjbTs/Q266y7ICBx2YyUCvcAF6gg/view?utm_content=DAGVjMPjbTs&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+[![Infographic](images/image18.png)](images/image19.png)
 
 This project explores the alarming rise in cancer rates in India, highlighting critical factors such as lifestyle changes, environmental pollution, and healthcare accessibility. Through a persuasive infographic, the goal is to raise awareness and encourage actionable steps toward addressing this growing crisis.
 
