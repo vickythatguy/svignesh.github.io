@@ -104,8 +104,8 @@ This project highlights the mental health challenges faced by seniors, including
 [View Full Project](https://vickythatguy.github.io/svignesh.github.io/assignment1)
 
 
-### [**Assignment 1: Mind Matters - Addressing Mental Health Challenges Among Seniors**](https://vickythatguy.github.io/svignesh.github.io/assignment2)
-[![Mind Matters](https://raw.githubusercontent.com/vickythatguy/svignesh.github.io/main/images/image12.png)](https://github.com/vickythatguy/svignesh.github.io/assignment2)
+### [**Assignment 2: Redesign a Notable Information Graphic - Nightingale's Coxcomb**](https://vickythatguy.github.io/svignesh.github.io/assignment2)
+[![Nightingale's Coxcomb](https://raw.githubusercontent.com/vickythatguy/svignesh.github.io/main/images/image12.png)](https://github.com/vickythatguy/svignesh.github.io/assignment2)
 
 ## Nightingale's Coxcomb
 
