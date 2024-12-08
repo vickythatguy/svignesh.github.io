@@ -107,8 +107,13 @@ The project examines how climate change impacts Canadian agriculture, highlighti
 
 
 ---
+## **Resume**
+Kindly click [here to view my Resume](https://drive.google.com/file/d/1cWsjDkq4wtMAebCdrH-KLYHnSVNwWs4s/view?usp=sharing).
 
-## **6. Certifications**
+
+
+---
+## **Certifications**
 - SQL(Basic, Intermediate, Advanced) - Hackerrank
 - Working with BigQuery - Cousera
 - Statistics for Data Science and Business Analysis - Udemy
