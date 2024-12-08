@@ -131,7 +131,6 @@ The project examines how climate change impacts Canadian agriculture, highlighti
 
 [View Full Project](https://vickythatguy.github.io/svignesh.github.io/assignment4)
 
----
 
 [Explore the Scroll Story](https://a-mbai5400thefamousfiv.vev.site/)
 
