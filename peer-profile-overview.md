@@ -46,6 +46,12 @@ This section provides a detailed analysis of **Aayushee Patel's** peer activity 
 
 ---
 
+## Python Code
+The visualizations were generated using Python. You can find the full code implementation in the repository:  
+[**View Python Code**](InclassTutorial.ipynb)
+
+---
+
 ## Reflection
 The visualizations highlight significant behavioral changes in **Aayushee Patel's** activity profile, offering insights into how the pandemic reshaped daily habits. These observations underscore the broader impacts of COVID-19 on lifestyle, health, and well-being.
 
