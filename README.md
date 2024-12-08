@@ -111,18 +111,10 @@ Welcome to the **In-Class Tutorial** on visualizing peer profiles and their beha
 
 Click below to dive into the detailed analysis:
 
-[**Peer Profiles: Pre-COVID vs Post-COVID**](peer-profile-overview.md)
+[Peer Profiles: Pre-COVID vs Post-COVID](peer-profile-overview.md)
 
 ---
 
----
-
-
-Click below to dive into the detailed analysis:
-
-[**Peer Profiles: Pre-COVID vs Post-COVID**](peer-profile-overview.md)
-
----
 ## **📃 Resume**
 Kindly click [here to view my Resume](https://drive.google.com/file/d/1cWsjDkq4wtMAebCdrH-KLYHnSVNwWs4s/view?usp=sharing).
 
