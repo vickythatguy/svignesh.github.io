@@ -1,8 +1,8 @@
 
-<div style="background-image:url('https://raw.githubusercontent.com/vickythatguy/svignesh.github.io/main/images/picture.png')> 
-<h3><b>📌 Professional Summary</b></h3>
-<h6>Driven by a passion for data and problem-solving, I offer hands-on expertise in SQL, Python, Power BI, Tableau, and cloud platforms such as Azure. With a focus on advanced data modeling, predictive analytics, and machine learning, I transform raw data into meaningful insights. Proficient in SDLC and Agile methodologies, I excel in creating data-driven solutions that support strategic decision-making and business success.</h6>
-</div>
+
+## **📌 Professional Summary**
+Driven by a passion for data and problem-solving, I offer hands-on expertise in SQL, Python, Power BI, Tableau, and cloud platforms such as Azure. With a focus on advanced data modeling, predictive analytics, and machine learning, I transform raw data into meaningful insights. Proficient in SDLC and Agile methodologies, I excel in creating data-driven solutions that support strategic decision-making and business success.
+
 ---
 
 ## **📊 Technical Skills**
