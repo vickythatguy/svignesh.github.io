@@ -142,11 +142,29 @@ Initial sketches and mockups were created to explore the layout and design of th
 ---
 
 ### Final Infographic
-The infographic was developed using Power BI to combine data insights with compelling visuals. It emphasizes the rapid increase in cancer cases, demographic distribution, and the key drivers of this trend.
+Click on the image below to view the expanded visualization:
 
-![Infographic](images/image18.png)
+[![Infographic](images/image18.png)](images/image19.png)
 
-[**View Full Infographic PDF**](assignment3_infographic.pdf)
+[**View Full Infographic**](https://www.canva.com/design/DAGVjMPjbTs/Q266y7ICBx2YyUCvcAF6gg/view?utm_content=DAGVjMPjbTs&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
+---
+
+## Reflection
+
+- **Impact of Data Visualization**: Highlighting complex data in a simplified, visual format increased engagement and understanding.
+- **Persuasion and Clarity**: Combining stark statistics with visual storytelling successfully emphasized the severity of the issue.
+- **Action-Oriented Messaging**: The infographic was designed to not only inform but also motivate stakeholders to act.
+
+---
+
+## Resources
+- Data sources: Government health reports, WHO publications, and peer-reviewed journals.
+- Tools used: Power BI for visualization and Canva for final infographic design.
+
+---
+
+Refer to the [**View Full Infographic**](https://www.canva.com/design/DAGVjMPjbTs/Q266y7ICBx2YyUCvcAF6gg/view?utm_content=DAGVjMPjbTs&utm_campaign=designshare&utm_medium=link&utm_source=editor) link for the final infographic design.
 
 ---
 
