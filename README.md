@@ -182,8 +182,36 @@ Refer to the [**View Full Infographic**](https://www.canva.com/design/DAGVjMPjbT
 
 ---
 
-Refer to the file `assignment3_infographic.pdf` for the final infographic design.
-4. **Assignment 4**: Placeholder
+### [Assignment 4: Data Story - How is Climate Change Influencing Agricultural Productivity Across Canada?](https://a-mbai5400thefamousfiv.vev.site/)
+![Climate Change Impacts](images/image19.png)
+
+## Overview
+This project examines the critical impact of climate change on agriculture in Canada. It highlights changes in agricultural productivity, the economic challenges faced by farmers, and the role of sustainable practices in building resilience. The data story uses a scroll storytelling approach to effectively engage the audience.
+
+---
+
+## Key Highlights
+- **Themes**: Extreme weather, resource challenges, and sustainable practices.
+- **Characters**: Farmers adapting to climate challenges, policymakers managing resources, and consumers affected by food price fluctuations.
+- **Visual Methods**: Heatmaps, bar and line charts, and interactive maps for data exploration.
+
+---
+
+## Main Data Story Method
+The primary data storytelling technique used is **scroll storytelling**, combining visuals, videos, and narrative text for an immersive experience.  
+[**Explore the Scroll Story**](https://a-mbai5400thefamousfiv.vev.site/)
+
+---
+
+## Proposal and Details
+For a deeper look at the development process, characters, and datasets used in this project, please refer to:  
+[**Assignment 3: A Persuasive Infographic**](assignment3.md)
+
+---
+
+## Core Message
+Climate change demands immediate action to secure sustainable agriculture and food systems. It threatens global food security and the livelihoods of millions, making innovative solutions and collaborative efforts essential for resilience and a sustainable future.
+
 
 #### In-Class Tutorials
 1. **Tutorial 1**: Placeholder
