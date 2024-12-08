@@ -168,19 +168,6 @@ Refer to the [**View Full Infographic**](https://www.canva.com/design/DAGVjMPjbT
 
 ---
 
-## Reflection
-
-- **Impact of Data Visualization**: Highlighting complex data in a simplified, visual format increased engagement and understanding.
-- **Persuasion and Clarity**: Combining stark statistics with visual storytelling successfully emphasized the severity of the issue.
-- **Action-Oriented Messaging**: The infographic was designed to not only inform but also motivate stakeholders to act.
-
----
-
-## Resources
-- Data sources: Government health reports, WHO publications, and peer-reviewed journals.
-- Tools used: Power BI for visualization and Adobe Illustrator for design refinement.
-
----
 
 ### [Assignment 4: Data Story - How is Climate Change Influencing Agricultural Productivity Across Canada?](https://a-mbai5400thefamousfiv.vev.site/)
 ![Climate Change Impacts](images/image20.png)
@@ -197,20 +184,27 @@ This project examines the critical impact of climate change on agriculture in Ca
 
 ---
 
-## Main Data Story Method
-The primary data storytelling technique used is **scroll storytelling**, combining visuals, videos, and narrative text for an immersive experience.  
+## Delivery Format
+The data story uses **scroll storytelling**, a highly immersive and engaging technique that combines visuals, videos, and narrative text.  
 [**Explore the Scroll Story**](https://a-mbai5400thefamousfiv.vev.site/)
 
 ---
 
-## Proposal and Details
-For a deeper look at the development process, characters, and datasets used in this project, please refer to:  
-[**Assignment 3: A Persuasive Infographic**](assignment3.md)
+## Key Insights
+1. Rising temperatures have extended Canada’s growing season, benefiting some crops but causing heat stress in others.
+2. Fluctuating yields due to climate variability have disrupted economic stability for farmers.
+3. Droughts and floods have increased irrigation costs, reduced soil moisture, and heightened soil erosion risks.
+
 
 ---
 
-## Core Message
-Climate change demands immediate action to secure sustainable agriculture and food systems. It threatens global food security and the livelihoods of millions, making innovative solutions and collaborative efforts essential for resilience and a sustainable future.
+## Reflection
+This project highlights the critical importance of actionable insights through data storytelling:
+- **Engagement**: The scroll storytelling format effectively connects data with real-world experiences.
+- **Action-Oriented Messaging**: Identifying actionable solutions fosters resilience and sustainability.
+- **Innovation**: Integrating interactive visuals with narrative text enhances understanding and inspires collaboration.
+
+---
 
 
 #### In-Class Tutorials
