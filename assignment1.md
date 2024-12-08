@@ -85,6 +85,8 @@ The delivery format for this data story is a presentation. This format was chose
 
 <a href="https://prezi.com/view/HlpTA2mehg4H1OPGTflV/" style="color:blue; text-decoration:underline;"><strong>View Full Presentation on Prezi</strong></a>  
 <a href="https://drive.google.com/file/d/1OUfHiCD_f4ynRPfTylbQnJMZworjkSnZ/view?usp=sharing" style="color:blue; text-decoration:underline;"><strong>Download the PDF Version</strong></a>
+
+
 ---
 
 ## Conclusion:
