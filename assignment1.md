@@ -11,7 +11,7 @@ To convey this story effectively, I chose an interactive presentation format to 
 
 [**Miro Template for Reference**](https://miro.com/welcomeonboard/Uk4ya0lhRjF5NU1JOXJwbnJ6VmVEMGNaOTY2MU9IejNwbHQ1eno1RU9uQ1YxUUpPOTJ0cXhlS3dTVnFMZUpXdXwzNDU4NzY0NjAxMzM0MDQ0Njc1fDI/?share_link_id=682473974319)
 
-![Image 5](images/image5)
+![Image 5](images/image5.png)
 
 ---
 
@@ -60,28 +60,31 @@ To convey this story effectively, I chose an interactive presentation format to 
 ---
 
 ## Storyboard Foundation (2nd Iteration):
-1. ![Image 6](images/image6)  
+1. ![Image 6](images/image6.png)  
    _Note: As we age, we all envision a life filled with joy, connection, and health. This slide shows a group of seniors enjoying outdoor activities, symbolizing what we hope the aging process will look like._
 
-2. ![Image 7](images/image7)  
+2. ![Image 7](images/image7.png)  
    _Note: Meet Charlie. After retiring, his life took a different turn. With his children and grandchildren living far away, Charlie moved into a nursing home where he now faces long days of isolation._
 
-3. ![Image 8](images/image8)  
+3. ![Image 8](images/image8.png)  
    _Note: Over time, Charlie’s isolation began to take a toll on his mental health. Like many seniors in similar situations, Charlie experienced depression and anxiety, struggling to find the emotional support he needed._
 
-4. ![Image 9](images/image9)  
+4. ![Image 9](images/image9.png)  
    _Note: The emotional toll isn’t just internal. Research shows that seniors like Charlie who suffer from mental health issues are more likely to experience physical health decline, further reducing their life expectancy._
 
-5. ![Image 10](images/image10)  
+5. ![Image 10](images/image10.png)  
    _Note: Despite the growing need, access to mental health services remains limited for seniors like Charlie. Many seniors go without the care they desperately need, leading to a worsening cycle of health decline._
 
-6. ![Image 11](images/image11)  
+6. ![Image 11](images/image11.png)  
    _Note: By addressing mental health issues and providing the necessary support, seniors like Charlie can live healthier, happier lives. It's time to prioritize the mental well-being of our elderly population._
 
 ---
 
 ## Delivery Format: Presentation (3rd Iteration)
 The delivery format for this data story is a presentation. This format was chosen for its ability to combine visuals, text, and data in a clear, accessible way. The presentation format allows for a linear narrative, guiding the audience through Charlie's journey and the broader issue of senior mental health step by step. Using images, relatable characters, and data visualizations, the story will create an emotional and informative experience for the audience.
+
+[**View Full Presentation on Prezi**](https://prezi.com/view/HlpTA2mehg4H1OPGTflV/)  
+[**Download the PDF Version**](https://drive.google.com/file/d/1OUfHiCD_f4ynRPfTylbQnJMZworjkSnZ/view?usp=sharing)
 
 ---
 
@@ -96,5 +99,6 @@ _Resources:_
 5. [The Daily - Loneliness Among Seniors, July 2022](https://www150.statcan.gc.ca/n1/daily-quotidien/220713/dq220713a-eng.htm)  
 6. [Graph on Seniors' Loneliness, July 2022](https://www150.statcan.gc.ca/n1/daily-quotidien/220713/g-a002-eng.htm)
 
+---
 
 [Download the PDF](https://drive.google.com/file/d/1OUfHiCD_f4ynRPfTylbQnJMZworjkSnZ/view?usp=sharing)
