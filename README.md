@@ -183,7 +183,7 @@ Refer to the [**View Full Infographic**](https://www.canva.com/design/DAGVjMPjbT
 ---
 
 ### [Assignment 4: Data Story - How is Climate Change Influencing Agricultural Productivity Across Canada?](https://a-mbai5400thefamousfiv.vev.site/)
-![Climate Change Impacts](images/image19.png)
+![Climate Change Impacts](images/image20.png)
 
 ## Overview
 This project examines the critical impact of climate change on agriculture in Canada. It highlights changes in agricultural productivity, the economic challenges faced by farmers, and the role of sustainable practices in building resilience. The data story uses a scroll storytelling approach to effectively engage the audience.
