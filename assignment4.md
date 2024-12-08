@@ -85,5 +85,4 @@ This project emphasizes the importance of actionable insights through data story
   - Scroll storytelling platforms for engaging narratives.
 
 ---
-
-For more details, return to [**Assignment 3: A Persuasive Infographic**](assignment3.md).
+[← Back to Portfolio](../README.md)
