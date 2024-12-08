@@ -119,7 +119,52 @@ Showcase how redesigning historical visualizations can enhance understanding and
 
 [View Full Project](https://vickythatguy.github.io/svignesh.github.io/assignment2)
 
-3. **Assignment 3**: Placeholder
+# Assignment 3: A Persuasive Infographic - India: On the Path to Becoming the Cancer Capital of the World
+
+## Overview
+This project explores the alarming rise in cancer rates in India, highlighting critical factors such as lifestyle changes, environmental pollution, and healthcare accessibility. Through a persuasive infographic, the goal is to raise awareness and encourage actionable steps toward addressing this growing crisis.
+
+---
+
+## Objective
+Create a data-driven, visually engaging infographic to persuade stakeholders about the urgency of addressing cancer prevalence in India and inspire healthcare reforms.
+
+---
+
+## Iteration Process
+
+### Iteration 1: Research and Data Collection
+Key statistics and insights were collected from credible sources, including government reports, healthcare organizations, and academic studies. This provided the foundation for the visual narrative.
+
+### Iteration 2: Visual Design
+Initial sketches and mockups were created to explore the layout and design of the infographic. Key considerations included the use of color to highlight critical data points and the arrangement of visuals to maintain clarity and engagement.
+
+---
+
+### Final Infographic
+The infographic was developed using Power BI to combine data insights with compelling visuals. It emphasizes the rapid increase in cancer cases, demographic distribution, and the key drivers of this trend.
+
+![Infographic](images/image18.png)
+
+[**View Full Infographic PDF**](assignment3_infographic.pdf)
+
+---
+
+## Reflection
+
+- **Impact of Data Visualization**: Highlighting complex data in a simplified, visual format increased engagement and understanding.
+- **Persuasion and Clarity**: Combining stark statistics with visual storytelling successfully emphasized the severity of the issue.
+- **Action-Oriented Messaging**: The infographic was designed to not only inform but also motivate stakeholders to act.
+
+---
+
+## Resources
+- Data sources: Government health reports, WHO publications, and peer-reviewed journals.
+- Tools used: Power BI for visualization and Adobe Illustrator for design refinement.
+
+---
+
+Refer to the file `assignment3_infographic.pdf` for the final infographic design.
 4. **Assignment 4**: Placeholder
 
 #### In-Class Tutorials
