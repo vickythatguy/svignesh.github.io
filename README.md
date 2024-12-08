@@ -5,18 +5,13 @@ Driven by a passion for data and problem-solving, I offer hands-on expertise in 
 ---
 
 ## **2. Technical Skills**
-### Methodologies:
-- SDLC, Agile, Hybrid, Waterfall.
 
-### Programming:
-- Python (pandas, matplotlib, seaborn, numpy, tensorflow, pytorch).
-- R (ggplot), SQL.
 
-### Tools & Platforms:
-- Power BI, Tableau, JIRA, SharePoint, SSRS, Azure.
+### Languages:
+- Python, R, SQL
 
-### Databases:
-- MS Access, SQL Server, PostgreSQL.
+### Tools:
+- Power BI, Tableau, JIRA, SSRS, Azure.
 
 ---
 
@@ -47,16 +42,10 @@ Driven by a passion for data and problem-solving, I offer hands-on expertise in 
 
 ### [Optimizing Investment Outcomes](https://github.com/vickythatguy/strategiesVsMutualFund)
 <a href="https://github.com/vickythatguy/strategiesVsMutualFund">
-  <img src="https://raw.githubusercontent.com/vickythatguy/svignesh.github.io/main/images/image2.webp" alt="Optimizing Investment Outcomes" width="400" />
+  <img src="https://raw.githubusercontent.com/vickythatguy/svignesh.github.io/main/images/image2.webp" alt="Optimizing Investment Outcomes" width="450" />
 </a>
 
-- Developed and compared **nine technical trading strategies** using Python, achieving a **cumulative return of 624.28%**.
-  
-- Utilized metrics such as **Sharpe ratio** and **win rate** to evaluate performance.
-  
-- Conducted **data analysis and backtesting** for trading strategies including EMA, VWMA, MACD, and more.
-  
-- Compared strategy performance against the **TD Bank NASDAQ Index Mutual Fund** to provide actionable insights for investors.
+Nine technical trading strategies were developed and compared using Python, achieving a cumulative return of **624.28%** over the evaluation period. Metrics such as the Sharpe ratio and win rate were utilized to assess performance and identify areas for optimization across strategies, including EMA, VWMA, and MACD. Comprehensive data analysis and rigorous backtesting were conducted, with strategy performance benchmarked against the TD Bank NASDAQ Index Mutual Fund to provide actionable insights for investors seeking data-driven decisions.
 
 ---
 
