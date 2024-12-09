@@ -105,7 +105,7 @@ The project examines how climate change impacts Canadian agriculture, highlighti
 [Explore the Scroll Story](https://a-mbai5400thefamousfiv.vev.site/)
 
 ---
-### **In-Class Tutorial**
+### **📔 In-Class Tutorial**
 **1. Peer Profile** (Pre & Post Covid)
 
 Welcome to the **In-Class Tutorial** on visualizing peer profiles and their behavioral changes pre- and post-COVID. This tutorial focuses on the activity profile of **Aayushee Patel**, analyzing her behavioral changes before and after the pandemic. It will guide you through key observations and visualizations to better understand the impacts of the pandemic.
@@ -121,14 +121,14 @@ Click below to dive into the detailed analysis:
 This tutorial introduces a storyboard created with Miro to illustrate the narrative around mental health challenges among seniors, focusing on the emotional and systemic challenges they face. The storyboard helps visualize key moments, characters, and solutions in a clear and impactful way.
 
 - **Storyboard Overview:**
-- The storyboard uses **Miro** to break down the journey of seniors, like the fictional character "Charlie," experiencing mental health challenges. It emphasizes Emotional struggles such as depression and anxiety due the impact of social isolation.Potential solutions to improve the quality of life for seniors.
+  The storyboard uses **Miro** to break down the journey of seniors, like the fictional character "Charlie," experiencing mental health challenges. It emphasizes Emotional struggles such as depression and anxiety due the impact of social isolation.Potential solutions to improve the quality of life for seniors.
 
 - **Miro Template**
-- [Miro Storyboard](https://miro.com/welcomeonboard/Uk4ya0lhRjF5NU1JOXJwbnJ6VmVEMGNaOTY2MU9IejNwbHQ1eno1RU9uQ1YxUUpPOTJ0cXhlS3dTVnFMZUpXdXwzNDU4NzY0NjAxMzM0MDQ0Njc1fDI=?share_link_id=682473974319)
+  [Miro Storyboard](https://miro.com/welcomeonboard/Uk4ya0lhRjF5NU1JOXJwbnJ6VmVEMGNaOTY2MU9IejNwbHQ1eno1RU9uQ1YxUUpPOTJ0cXhlS3dTVnFMZUpXdXwzNDU4NzY0NjAxMzM0MDQ0Njc1fDI=?share_link_id=682473974319)
 
 - **Resources and Details**
-- To explore the full details of this project, you can also refer to the original document that inspired this storyboard:
-- [Resources and Details](https://drive.google.com/file/d/1OUfHiCD_f4ynRPfTylbQnJMZworjkSnZ/view?usp=sharing)
+  To explore the full details of this project, you can also refer to the original document that inspired this storyboard:
+  [Resources and Details](https://drive.google.com/file/d/1OUfHiCD_f4ynRPfTylbQnJMZworjkSnZ/view?usp=sharing)
 
 ---
 
