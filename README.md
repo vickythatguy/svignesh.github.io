@@ -105,7 +105,8 @@ The project examines how climate change impacts Canadian agriculture, highlighti
 [Explore the Scroll Story](https://a-mbai5400thefamousfiv.vev.site/)
 
 ---
-### In-Class Tutorial: Peer Profile (Pre & Post Covid)
+### **In-Class Tutorial**
+**1. Peer Profile** (Pre & Post Covid)
 
 Welcome to the **In-Class Tutorial** on visualizing peer profiles and their behavioral changes pre- and post-COVID. This tutorial focuses on the activity profile of **Aayushee Patel**, analyzing her behavioral changes before and after the pandemic. It will guide you through key observations and visualizations to better understand the impacts of the pandemic.
 
@@ -114,37 +115,35 @@ Click below to dive into the detailed analysis:
 [Peer Profiles: Pre-COVID vs Post-COVID](peer-profile-overview.md)
 
 ---
-### In-Class Tutorial: Storyboard Using Miro
+
+**2. Storyboard Using Miro**
 
 This tutorial introduces a storyboard created with Miro to illustrate the narrative around mental health challenges among seniors, focusing on the emotional and systemic challenges they face. The storyboard helps visualize key moments, characters, and solutions in a clear and impactful way.
 
-### Storyboard Overview
+- **Storyboard Overview:**
+- The storyboard uses **Miro** to break down the journey of seniors, like the fictional character "Charlie," experiencing mental health challenges. It emphasizes Emotional struggles such as depression and anxiety due the impact of social isolation.Potential solutions to improve the quality of life for seniors.
 
-The storyboard uses **Miro** to break down the journey of seniors, like the fictional character "Charlie," experiencing mental health challenges. It emphasizes Emotional struggles such as depression and anxiety due the impact of social isolation.Potential solutions to improve the quality of life for seniors.
+- **Miro Template**
+- [Miro Storyboard](https://miro.com/welcomeonboard/Uk4ya0lhRjF5NU1JOXJwbnJ6VmVEMGNaOTY2MU9IejNwbHQ1eno1RU9uQ1YxUUpPOTJ0cXhlS3dTVnFMZUpXdXwzNDU4NzY0NjAxMzM0MDQ0Njc1fDI=?share_link_id=682473974319)
 
-### Miro Template
-
-[View the Miro Storyboard](https://miro.com/welcomeonboard/Uk4ya0lhRjF5NU1JOXJwbnJ6VmVEMGNaOTY2MU9IejNwbHQ1eno1RU9uQ1YxUUpPOTJ0cXhlS3dTVnFMZUpXdXwzNDU4NzY0NjAxMzM0MDQ0Njc1fDI=?share_link_id=682473974319)
-
-### Resources and Details
-
-To explore the full details of this project, you can also refer to the original document that inspired this storyboard:
-
-[View PDF](https://drive.google.com/file/d/1OUfHiCD_f4ynRPfTylbQnJMZworjkSnZ/view?usp=sharing)
+- **Resources and Details**
+- To explore the full details of this project, you can also refer to the original document that inspired this storyboard:
+- [Resources and Details](https://drive.google.com/file/d/1OUfHiCD_f4ynRPfTylbQnJMZworjkSnZ/view?usp=sharing)
 
 ---
 
 ## **📃 Resume**
 Kindly click [here to view my Resume](https://drive.google.com/file/d/1cWsjDkq4wtMAebCdrH-KLYHnSVNwWs4s/view?usp=sharing).
 
-
 ---
+
 ## **📖 Certifications**
 - SQL(Basic, Intermediate, Advanced) - Hackerrank
 - Working with BigQuery - Cousera
 - Statistics for Data Science and Business Analysis - Udemy
-- Data Analysis with Pandas and Python - Udemy(on-going)
-- Machine Learning A-Z: AI, Python & R + ChatGPT Prize - Udemy(on-going)
 - Supervised Machine Learning: Regression and Classification -Standford University
 - Data Analytics Certificate - Google (Basic,Advanced)
+- Data Analysis with Pandas and Python - Udemy(on-going)
+- Machine Learning A-Z: AI, Python & R + ChatGPT Prize - Udemy(on-going)
+
 
